@@ -1,5 +1,10 @@
-Adicionar as Dependências com 
+
+
+## Adicionar as Dependências
+
+```
 npm install
+```
 
 Gerar o Executável
 

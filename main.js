@@ -11,5 +11,5 @@ app.whenReady().then(() => {
     },
   });
 
-  mainWindow.loadURL("https://seu-site.com"); // Ou use `mainWindow.loadFile("index.html");`
+  mainWindow.loadURL("https://whaticket.com/pt/"); // Ou use `mainWindow.loadFile("index.html");`
 });
