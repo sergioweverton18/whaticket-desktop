@@ -1,4 +1,7 @@
 
+## Para abrir o seu site
+
+adicione a sua url no arquivo main.js
 
 ## Adicionar as Dependências
 
